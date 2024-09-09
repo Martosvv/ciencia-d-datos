@@ -1,0 +1,101 @@
+ID_Producto,Nombre_Producto,Precio,Cantidad,Fecha_Venta,Cliente,Región
+1,,591.55,14.0,2022-01-04,,Oeste
+2,Tablet,188.29,-1.0,invalid_date,Luis,Norte
+3,Cámara,571.74,15.0,2020-08-13,Lucia Gomez,Este
+4,Impresora,1080.09,10000.0,2021-09-07,Ana Jimenez,Sur
+5,Teclado,1213.5,10000.0,2021-04-22,Jose Martinez,Oeste
+6,Cámara,288.5,18.0,2021-10-29,Juan Perez,
+7,Monitor,618.03,2.0,2021-02-19,,
+8,Smartphone,,18.0,,Jose Martinez,Norte
+9,Ratón,,11.0,,Juan Perez,Sur
+10,Teclado,1321.46,,2022-02-17,Carlos Hernández,Norte
+11,Cámara,1243.27,-1.0,2022-02-23,Juan Perez,Sur
+12,Monitor,,5.0,,Ana Jimenez,
+13,,290.48,12.0,32-13-2020,,Norte
+14,Impresora,707.93,14.0,2020-04-30,InvalidName123,Norte
+15,Laptop,823.8,12.0,2021-02-03,Jose Martinez,Este
+16,Auriculares,133.05,18.0,32-13-2020,Lucia Gomez,
+17,Altavoz,219.31,6.0,2022-09-07,Luis,Este
+18,Tablet,183.36,13.0,32-13-2020,,Centro
+19,,1283.73,3.0,2021-07-02,Ana Jimenez,Sur
+20,Ratón,377.9,20.0,2022-12-03,Ana Jimenez,Oeste
+21,Altavoz,870.11,16.0,2020-07-11,,Sur
+22,Laptop,267.97,17.0,invalid_date,Carlos Hernández,Este
+23,,1302.66,12.0,,Jose Martinez,Oeste
+24,Cámara,-99.99,16.0,2022-09-23,Lucia Gomez,
+25,Ratón,1103.66,15.0,invalid_date,,Sur
+26,Cámara,1006.76,19.0,2022-01-20,Maria Lopez,Este
+27,Smartphone,1482.41,14.0,2020-03-27,Maria Lopez,Centro
+28,Smartphone,349.9,3.0,2020-04-23,Maria Lopez,
+29,Monitor,179.57,13.0,2022-06-25,Jose Martinez,Este
+30,Auriculares,1472.74,8.0,2021-04-26,Luis,
+31,Impresora,469.12,16.0,2021-03-07,,Oeste
+32,,1222.02,3.0,2020-01-20,Juan Perez,Oeste
+33,,,10000.0,2022-12-20,Maria Lopez,Sur
+34,,976.85,3.0,2021-09-28,,Centro
+35,Auriculares,-99.99,16.0,2022-09-04,Maria Lopez,
+36,Teclado,975.55,10.0,2021-03-24,Jose Martinez,Este
+37,Auriculares,439.91,10.0,2022-04-16,Maria Lopez,Norte
+38,Teclado,1097.03,11.0,2020-02-25,,Sur
+39,Impresora,-99.99,14.0,32-13-2020,Juan Perez,Centro
+40,Teclado,1082.56,-1.0,2020-12-27,,Sur
+41,Laptop,285.9,14.0,2020-03-12,Lucia Gomez,Oeste
+42,Auriculares,859.08,16.0,2020-08-22,Luis,Centro
+43,Teclado,,2.0,2020-04-12,Carlos Hernández,Norte
+44,Altavoz,1444.38,19.0,2020-08-26,Carlos Hernández,
+45,Tablet,1188.64,6.0,2021-03-09,Ana Jimenez,Este
+46,Monitor,,18.0,2021-01-04,Juan Perez,Norte
+47,Altavoz,1096.16,13.0,2021-08-28,Lucia Gomez,Centro
+48,Impresora,626.59,2.0,,,Sur
+49,,1148.37,-1.0,2020-12-31,Jose Martinez,Este
+50,Altavoz,1490.23,7.0,2021-11-21,Lucia Gomez,
+51,Teclado,1389.23,9.0,2022-03-10,InvalidName123,Oeste
+52,Monitor,577.66,18.0,2021-09-20,Ana Jimenez,Centro
+53,Ratón,911.37,10000.0,2022-05-24,,Oeste
+54,Cámara,644.58,7.0,2022-02-24,Lucia Gomez,Oeste
+55,Smartphone,293.43,16.0,2021-12-20,Lucia Gomez,Centro
+56,Ratón,1258.66,10000.0,,Maria Lopez,Este
+57,Laptop,382.34,,2020-03-07,InvalidName123,Norte
+58,Ratón,1234.8,-1.0,2020-10-09,Luis,Centro
+59,Cámara,129.43,3.0,2020-12-13,InvalidName123,Oeste
+60,Auriculares,414.73,2.0,2022-08-11,Jose Martinez,Sur
+61,Ratón,1262.18,-1.0,2020-08-04,Maria Lopez,Norte
+62,Monitor,887.42,16.0,2021-09-02,,Centro
+63,Teclado,-99.99,4.0,2021-02-07,Carlos Hernández,
+64,Teclado,1042.34,20.0,2022-01-10,Luis,Este
+65,,715.62,1.0,2022-05-09,Ana Jimenez,Oeste
+66,,342.05,12.0,,,
+67,Impresora,-99.99,10000.0,2021-12-11,Ana Jimenez,
+68,Cámara,1315.54,-1.0,2022-01-26,Maria Lopez,Este
+69,Ratón,666.5,-1.0,invalid_date,InvalidName123,Este
+70,,1212.46,1.0,2020-10-07,,Oeste
+71,Ratón,82.32,1.0,invalid_date,,Este
+72,Teclado,1292.54,11.0,invalid_date,Ana Jimenez,
+73,,1303.75,16.0,2022-05-09,,Este
+74,Teclado,1120.19,1.0,2021-05-06,,Centro
+75,Smartphone,-99.99,-1.0,32-13-2020,Jose Martinez,Norte
+76,Altavoz,718.28,-1.0,2020-12-07,Lucia Gomez,
+77,Altavoz,1203.83,16.0,2021-03-15,Maria Lopez,Este
+78,,686.29,,2020-04-06,Juan Perez,
+79,Ratón,803.28,5.0,2021-05-14,Ana Jimenez,
+80,Laptop,-99.99,10000.0,2021-02-02,Luis,
+81,,-99.99,10.0,2020-05-04,Luis,Oeste
+82,,1424.99,2.0,2020-08-02,Luis,Centro
+83,Altavoz,1369.08,9.0,invalid_date,Ana Jimenez,
+84,Monitor,669.3,7.0,2022-03-08,Jose Martinez,Oeste
+85,Tablet,999999.0,6.0,,Carlos Hernández,
+86,,277.33,6.0,,InvalidName123,
+87,Monitor,999999.0,10000.0,2021-07-29,Ana Jimenez,Sur
+88,,999999.0,8.0,2022-03-13,,
+89,Ratón,1263.72,11.0,invalid_date,Lucia Gomez,
+90,Teclado,531.38,20.0,2021-05-31,InvalidName123,
+91,Ratón,1202.49,10000.0,2020-09-27,Ana Jimenez,Oeste
+92,Laptop,1359.43,9.0,2021-06-13,,Norte
+93,Altavoz,1192.84,3.0,32-13-2020,,Este
+94,Smartphone,1494.04,15.0,,,Norte
+95,Impresora,531.62,,2021-10-06,,Norte
+96,Ratón,675.6,,invalid_date,,Sur
+97,Monitor,427.43,,,Maria Lopez,Norte
+98,Ratón,897.84,10.0,2022-10-08,Ana Jimenez,Sur
+99,,,10000.0,2022-12-09,Juan Perez,
+100,Monitor,649.06,1.0,2022-12-22,Juan Perez,Oeste
