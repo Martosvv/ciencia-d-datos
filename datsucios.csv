@@ -1,0 +1,1001 @@
+Name,Birthdate,Age,City,Salary
+Paul,2020-06-15,,  Paris  ,50000
+,06/18/2021,1000,Berlin ,30000
+John,2022/07/20,18,  Paris  ,70000
+Jane,2020-06-15,18,New-York,200000
+Jane,06/18/2021,-5,Los Angeles,30000
+Jane,2020-06-15,40,New York,9999999
+Maria,2021-05-01,40,New-York,30000
+Jane,2022/07/20,35,,200000
+,,18,  Paris  ,
+Luis,,18,,200000
+Paul,15/07/2021,18,,
+John,,25,,200000
+John,15/07/2021,-5,New-York,30000
+Paul,06/18/2021,1000,New-York,
+Luis,2020-06-15,18,New-York,
+Maria,2022/07/20,-5,New-York,200000
+John,2022/07/20,-5,  Paris  ,30000
+Maria,15/07/2021,18,Los Angeles,30000
+,06/18/2021,35,Los Angeles,30000
+Maria,2022/07/20,150,New-York,
+,2022/07/20,35,New York,
+John,2020-06-15,150,Los Angeles,9999999
+Maria,2020-06-15,,  Paris  ,9999999
+Paul,15/07/2021,35,  Paris  ,
+Jane,2020-06-15,18,Los Angeles,30000
+John,06/18/2021,18,  Paris  ,50000
+Jane,15/07/2021,18,  Paris  ,50000
+,06/18/2021,35,Berlin ,
+John,06/18/2021,40,  Paris  ,
+Luis,2022/07/20,1000,Los Angeles,30000
+Jane,,150,Los Angeles,30000
+John,2022/07/20,25,,50000
+Maria,2020-06-15,,,50000
+Jane,,1000,New York,200000
+,2021-05-01,40,New-York,30000
+Jane,,25,Los Angeles,70000
+Jane,2020-06-15,35,  Paris  ,200000
+John,2020-06-15,150,,30000
+Maria,2020-06-15,,,70000
+Maria,15/07/2021,1000,New York,70000
+Maria,2020-06-15,1000,Berlin ,
+John,2021-05-01,,,
+Luis,15/07/2021,35,New York,70000
+Paul,,-5,  Paris  ,70000
+Jane,2021-05-01,150,Los Angeles,9999999
+Jane,2022/07/20,40,New York,200000
+Luis,,-5,  Paris  ,70000
+Paul,2022/07/20,25,Berlin ,
+Luis,2022/07/20,18,,
+John,15/07/2021,-5,New York,
+John,2022/07/20,150,  Paris  ,50000
+Paul,15/07/2021,18,New-York,200000
+,2020-06-15,1000,Los Angeles,200000
+,,150,  Paris  ,200000
+John,06/18/2021,25,New-York,9999999
+Paul,,18,Los Angeles,50000
+Maria,2020-06-15,40,,200000
+Paul,,150,Los Angeles,50000
+Maria,15/07/2021,-5,Los Angeles,50000
+Luis,2020-06-15,35,New-York,70000
+Luis,,150,New York,50000
+John,,18,,30000
+Maria,15/07/2021,35,New-York,30000
+Maria,2022/07/20,1000,New-York,9999999
+Maria,2021-05-01,150,  Paris  ,9999999
+Maria,,18,  Paris  ,200000
+Jane,06/18/2021,18,Berlin ,30000
+Jane,2021-05-01,,New-York,9999999
+Luis,06/18/2021,18,New-York,9999999
+Jane,15/07/2021,1000,Berlin ,70000
+John,,1000,New-York,30000
+Jane,2020-06-15,,New-York,50000
+,15/07/2021,-5,Berlin ,9999999
+Paul,,-5,Berlin ,9999999
+Maria,2022/07/20,25,Berlin ,30000
+Luis,2020-06-15,18,Los Angeles,
+Paul,06/18/2021,1000,  Paris  ,9999999
+Jane,,150,Berlin ,70000
+Paul,15/07/2021,-5,Los Angeles,200000
+Paul,15/07/2021,18,,
+Paul,,18,  Paris  ,70000
+Jane,2020-06-15,-5,Berlin ,70000
+Paul,,1000,,70000
+Paul,2021-05-01,,New-York,30000
+Paul,06/18/2021,18,New-York,30000
+John,,1000,  Paris  ,
+Paul,,40,New York,
+Jane,2020-06-15,25,  Paris  ,50000
+Luis,2022/07/20,35,Los Angeles,50000
+,15/07/2021,-5,New-York,50000
+,06/18/2021,150,,70000
+,2021-05-01,35,,200000
+John,15/07/2021,,New-York,50000
+Maria,2021-05-01,150,Berlin ,
+,2020-06-15,25,Los Angeles,200000
+Maria,2021-05-01,1000,New York,50000
+Jane,2022/07/20,25,Los Angeles,30000
+John,,-5,Los Angeles,9999999
+,06/18/2021,35,Los Angeles,50000
+John,15/07/2021,,Los Angeles,50000
+Maria,,40,New York,70000
+Luis,2020-06-15,25,Los Angeles,70000
+Paul,,150,New York,50000
+Luis,2022/07/20,35,  Paris  ,70000
+John,2021-05-01,-5,,30000
+,15/07/2021,40,Los Angeles,200000
+Jane,06/18/2021,40,Berlin ,200000
+Luis,2022/07/20,40,New York,70000
+Luis,15/07/2021,-5,,50000
+,2020-06-15,150,,30000
+John,06/18/2021,18,New York,30000
+,,-5,,
+Maria,2020-06-15,1000,Los Angeles,70000
+John,,40,Berlin ,
+Luis,2022/07/20,-5,,70000
+Luis,15/07/2021,40,,
+Jane,2022/07/20,150,Berlin ,9999999
+Luis,2020-06-15,1000,Los Angeles,50000
+Jane,2021-05-01,35,Berlin ,70000
+Luis,2020-06-15,,New York,200000
+Maria,2021-05-01,-5,,70000
+Luis,2020-06-15,-5,Los Angeles,200000
+Jane,2020-06-15,18,Los Angeles,
+Jane,06/18/2021,35,Los Angeles,
+Jane,2021-05-01,150,  Paris  ,50000
+Luis,2021-05-01,35,Los Angeles,200000
+Jane,15/07/2021,40,New-York,50000
+Paul,2022/07/20,18,New-York,30000
+Maria,,,New York,200000
+Luis,2022/07/20,,  Paris  ,70000
+Jane,2021-05-01,35,  Paris  ,200000
+Maria,06/18/2021,18,Berlin ,
+Luis,2021-05-01,35,Los Angeles,9999999
+Maria,15/07/2021,150,New-York,9999999
+Paul,,35,  Paris  ,50000
+Luis,,,New-York,30000
+Jane,2020-06-15,,New-York,50000
+John,06/18/2021,35,Los Angeles,30000
+Jane,15/07/2021,1000,New-York,9999999
+Luis,2022/07/20,,New York,
+Jane,06/18/2021,150,New York,9999999
+John,2020-06-15,,  Paris  ,9999999
+John,2021-05-01,40,  Paris  ,50000
+John,15/07/2021,40,Berlin ,70000
+Jane,,25,New-York,70000
+Luis,2021-05-01,150,  Paris  ,50000
+Jane,2021-05-01,25,Los Angeles,9999999
+John,2020-06-15,1000,  Paris  ,9999999
+Paul,2022/07/20,35,New York,50000
+John,2021-05-01,35,New-York,30000
+,,35,New York,50000
+John,,35,  Paris  ,9999999
+,2022/07/20,1000,  Paris  ,9999999
+Luis,2022/07/20,,New York,30000
+Jane,2020-06-15,25,,50000
+Luis,06/18/2021,-5,Berlin ,9999999
+Jane,,35,Berlin ,50000
+,2021-05-01,40,  Paris  ,200000
+John,2020-06-15,1000,Berlin ,30000
+John,2022/07/20,,New York,
+John,2021-05-01,25,New-York,70000
+Jane,06/18/2021,150,  Paris  ,30000
+John,15/07/2021,,Los Angeles,50000
+Luis,2022/07/20,18,,9999999
+Luis,06/18/2021,1000,Berlin ,70000
+John,06/18/2021,35,Berlin ,50000
+Paul,,40,Los Angeles,
+Jane,15/07/2021,150,,30000
+Paul,,1000,Los Angeles,9999999
+,06/18/2021,25,,9999999
+John,15/07/2021,,New York,30000
+Paul,,25,,50000
+Jane,15/07/2021,18,New York,50000
+,15/07/2021,40,Berlin ,30000
+Jane,2022/07/20,150,,50000
+Paul,06/18/2021,-5,New-York,30000
+,06/18/2021,,New York,200000
+Maria,2020-06-15,150,,
+,2020-06-15,1000,New York,9999999
+Jane,2020-06-15,18,  Paris  ,30000
+John,2020-06-15,40,,9999999
+John,2021-05-01,35,  Paris  ,
+John,2020-06-15,25,New York,
+,2022/07/20,-5,New-York,200000
+,2021-05-01,18,Berlin ,30000
+Maria,2022/07/20,150,Los Angeles,50000
+John,2020-06-15,150,,50000
+Paul,06/18/2021,1000,New York,30000
+Maria,2021-05-01,25,New-York,30000
+,06/18/2021,25,New-York,
+,2022/07/20,18,New-York,
+Jane,2022/07/20,18,New York,9999999
+Maria,2021-05-01,,New York,70000
+John,15/07/2021,40,,
+John,2022/07/20,-5,,30000
+Paul,15/07/2021,150,New-York,70000
+Jane,2021-05-01,35,New-York,
+Jane,2022/07/20,40,,50000
+Maria,06/18/2021,150,New York,
+,,-5,Berlin ,
+,2020-06-15,150,New York,
+John,2020-06-15,-5,  Paris  ,
+John,,35,New-York,200000
+Maria,,35,Berlin ,30000
+Luis,2021-05-01,-5,Los Angeles,70000
+John,2022/07/20,,New York,30000
+Jane,06/18/2021,-5,New-York,
+,2020-06-15,40,New York,50000
+Maria,,18,Los Angeles,70000
+Maria,15/07/2021,25,New York,9999999
+Paul,15/07/2021,150,Berlin ,30000
+John,,,Los Angeles,9999999
+,,,  Paris  ,50000
+John,2022/07/20,,  Paris  ,
+Jane,15/07/2021,1000,New-York,50000
+Luis,06/18/2021,18,  Paris  ,30000
+Jane,,150,New York,70000
+Luis,06/18/2021,-5,Berlin ,30000
+Paul,2020-06-15,25,  Paris  ,50000
+Jane,2021-05-01,35,New-York,50000
+,2021-05-01,150,New York,30000
+,2020-06-15,18,New-York,9999999
+Jane,2021-05-01,40,New-York,9999999
+John,,40,Berlin ,30000
+Jane,15/07/2021,18,,30000
+John,2022/07/20,,Berlin ,50000
+Paul,2021-05-01,18,New-York,200000
+Luis,2020-06-15,150,New-York,30000
+Jane,2022/07/20,1000,  Paris  ,
+,2020-06-15,-5,  Paris  ,50000
+,,25,Los Angeles,200000
+Paul,2020-06-15,150,,70000
+John,15/07/2021,35,Berlin ,200000
+Luis,,-5,,70000
+Jane,2021-05-01,1000,  Paris  ,200000
+Jane,2022/07/20,35,New-York,50000
+Maria,06/18/2021,1000,  Paris  ,
+,15/07/2021,35,Los Angeles,50000
+Jane,2022/07/20,-5,  Paris  ,200000
+Paul,06/18/2021,150,New-York,200000
+,2021-05-01,35,  Paris  ,70000
+,2020-06-15,,  Paris  ,30000
+Jane,15/07/2021,150,Berlin ,50000
+Jane,15/07/2021,-5,Berlin ,70000
+Maria,,150,Los Angeles,200000
+Maria,,40,Los Angeles,200000
+Maria,,1000,  Paris  ,30000
+Jane,2021-05-01,40,Berlin ,50000
+Luis,2021-05-01,18,Berlin ,200000
+Luis,15/07/2021,35,  Paris  ,
+Paul,06/18/2021,40,,30000
+Jane,2022/07/20,25,Berlin ,30000
+Maria,2022/07/20,-5,New York,70000
+Luis,2020-06-15,18,New-York,70000
+Jane,06/18/2021,1000,,70000
+,2021-05-01,,New York,200000
+,2021-05-01,40,New York,9999999
+,,35,New York,30000
+Maria,06/18/2021,-5,Berlin ,50000
+Paul,06/18/2021,-5,  Paris  ,
+Luis,2021-05-01,-5,,200000
+Luis,06/18/2021,,,200000
+John,,25,,50000
+Maria,,25,Los Angeles,200000
+,15/07/2021,25,New-York,50000
+John,2021-05-01,,New-York,9999999
+Paul,2021-05-01,150,New York,50000
+John,06/18/2021,40,Los Angeles,30000
+Jane,15/07/2021,40,  Paris  ,200000
+Luis,06/18/2021,150,Los Angeles,200000
+,15/07/2021,150,Los Angeles,
+,15/07/2021,35,New-York,50000
+John,15/07/2021,150,Berlin ,
+John,2022/07/20,,New York,9999999
+,06/18/2021,40,Berlin ,
+Maria,06/18/2021,150,,9999999
+Maria,2020-06-15,18,New-York,
+John,15/07/2021,35,Los Angeles,70000
+Jane,2021-05-01,40,New York,30000
+John,06/18/2021,18,  Paris  ,50000
+Jane,2020-06-15,35,  Paris  ,200000
+John,06/18/2021,25,Los Angeles,70000
+Paul,2021-05-01,25,Berlin ,70000
+Paul,2022/07/20,18,Berlin ,70000
+John,15/07/2021,25,New York,200000
+Maria,15/07/2021,18,,70000
+Jane,,35,New-York,70000
+Paul,2021-05-01,40,Berlin ,200000
+Jane,2021-05-01,1000,  Paris  ,30000
+Luis,2020-06-15,35,  Paris  ,9999999
+,2020-06-15,18,  Paris  ,70000
+Maria,2020-06-15,-5,,50000
+Maria,2022/07/20,,Berlin ,30000
+Luis,2020-06-15,,Los Angeles,200000
+Maria,2021-05-01,1000,Berlin ,30000
+,2020-06-15,-5,Berlin ,30000
+Paul,06/18/2021,150,New York,
+,06/18/2021,150,New-York,200000
+Luis,,150,,30000
+,06/18/2021,18,Berlin ,200000
+,,25,Berlin ,9999999
+Paul,06/18/2021,18,New-York,70000
+Paul,2022/07/20,1000,  Paris  ,200000
+,,1000,,30000
+,06/18/2021,150,New-York,200000
+Luis,,40,Berlin ,
+Jane,15/07/2021,1000,Los Angeles,9999999
+,,35,New York,
+Jane,06/18/2021,18,New York,
+Maria,2021-05-01,1000,New-York,9999999
+Luis,2020-06-15,150,New-York,9999999
+Paul,,-5,  Paris  ,9999999
+Jane,15/07/2021,40,New York,200000
+Jane,,,New-York,30000
+Maria,,18,,70000
+Maria,2020-06-15,25,Berlin ,50000
+,15/07/2021,150,Berlin ,70000
+,,18,Los Angeles,9999999
+Maria,,150,,
+Maria,06/18/2021,,Los Angeles,9999999
+Luis,2021-05-01,150,,30000
+John,15/07/2021,150,New-York,9999999
+Jane,2022/07/20,40,  Paris  ,9999999
+Maria,2022/07/20,18,  Paris  ,200000
+Paul,15/07/2021,1000,  Paris  ,200000
+Jane,2020-06-15,18,,30000
+Maria,15/07/2021,150,  Paris  ,30000
+Maria,15/07/2021,-5,New York,9999999
+Luis,2022/07/20,25,,
+John,2021-05-01,18,,
+John,2022/07/20,35,  Paris  ,30000
+Luis,2021-05-01,-5,Los Angeles,
+Paul,2021-05-01,-5,,9999999
+John,06/18/2021,18,Los Angeles,50000
+Paul,2022/07/20,40,,9999999
+Jane,,-5,New York,200000
+Jane,15/07/2021,35,New-York,
+John,2020-06-15,25,Berlin ,
+John,,40,Los Angeles,
+Jane,2022/07/20,25,Los Angeles,30000
+,2022/07/20,-5,,9999999
+Jane,,-5,New York,9999999
+John,06/18/2021,-5,Los Angeles,50000
+Jane,2022/07/20,18,Berlin ,9999999
+John,06/18/2021,18,New York,
+,15/07/2021,18,  Paris  ,50000
+Luis,15/07/2021,,  Paris  ,50000
+Maria,2020-06-15,,  Paris  ,30000
+John,2022/07/20,1000,Berlin ,
+Paul,,,New-York,50000
+John,06/18/2021,35,Los Angeles,
+Jane,2020-06-15,,Berlin ,
+Paul,2021-05-01,150,New-York,9999999
+Paul,2020-06-15,1000,New York,70000
+Maria,06/18/2021,150,Berlin ,200000
+John,2022/07/20,18,New York,
+Luis,2022/07/20,1000,New-York,9999999
+Paul,2021-05-01,18,Berlin ,30000
+Paul,06/18/2021,25,Los Angeles,9999999
+Luis,2022/07/20,40,New-York,200000
+Paul,2022/07/20,40,Los Angeles,30000
+Jane,06/18/2021,35,New York,30000
+Luis,2020-06-15,40,Los Angeles,30000
+Jane,15/07/2021,1000,Berlin ,70000
+John,,-5,Berlin ,200000
+,2020-06-15,35,  Paris  ,30000
+,06/18/2021,1000,,9999999
+,15/07/2021,25,Los Angeles,9999999
+John,2020-06-15,18,  Paris  ,70000
+John,2022/07/20,18,New-York,200000
+,15/07/2021,35,New York,9999999
+Jane,15/07/2021,,New-York,30000
+Paul,06/18/2021,1000,,30000
+Paul,2022/07/20,25,New York,
+,2022/07/20,1000,,200000
+Luis,2022/07/20,1000,Los Angeles,9999999
+Luis,15/07/2021,150,Berlin ,50000
+Paul,2020-06-15,18,Los Angeles,30000
+Maria,,18,New York,30000
+Jane,2021-05-01,1000,  Paris  ,30000
+Jane,,-5,New York,
+Jane,2021-05-01,25,  Paris  ,9999999
+Maria,06/18/2021,150,New-York,
+Luis,,150,Berlin ,
+,15/07/2021,35,New-York,200000
+Luis,2021-05-01,1000,Los Angeles,70000
+Jane,2022/07/20,,,200000
+,06/18/2021,-5,  Paris  ,70000
+Luis,,-5,  Paris  ,50000
+Jane,2020-06-15,35,New-York,200000
+Paul,06/18/2021,25,Berlin ,9999999
+Paul,2022/07/20,40,Berlin ,9999999
+Luis,2022/07/20,35,New-York,9999999
+,15/07/2021,40,Berlin ,9999999
+Maria,2022/07/20,-5,Los Angeles,30000
+Luis,2021-05-01,25,,50000
+,,150,New York,30000
+John,06/18/2021,40,  Paris  ,70000
+Jane,,18,,
+John,15/07/2021,1000,  Paris  ,70000
+Luis,,40,  Paris  ,200000
+Paul,2021-05-01,,New York,9999999
+Jane,2021-05-01,,Los Angeles,50000
+Luis,2022/07/20,-5,New-York,9999999
+Maria,,25,Berlin ,50000
+Luis,15/07/2021,,Berlin ,50000
+Maria,2021-05-01,1000,New York,70000
+Paul,15/07/2021,150,  Paris  ,200000
+,2022/07/20,150,Berlin ,
+Maria,06/18/2021,-5,New-York,50000
+John,2021-05-01,40,Berlin ,
+,2021-05-01,-5,  Paris  ,50000
+John,06/18/2021,1000,,50000
+John,06/18/2021,18,New-York,70000
+John,2021-05-01,25,  Paris  ,30000
+John,06/18/2021,1000,  Paris  ,50000
+Maria,06/18/2021,35,New York,30000
+John,2022/07/20,18,  Paris  ,70000
+Jane,2021-05-01,-5,New-York,50000
+Maria,06/18/2021,35,New York,9999999
+Paul,2022/07/20,25,New York,200000
+Maria,2021-05-01,35,New-York,50000
+Luis,2021-05-01,18,New York,50000
+Paul,2021-05-01,1000,New-York,200000
+John,06/18/2021,,Berlin ,200000
+John,06/18/2021,-5,New York,50000
+Luis,,25,Berlin ,
+,2022/07/20,,New York,70000
+John,,,  Paris  ,9999999
+Paul,15/07/2021,,,
+Paul,2022/07/20,18,New-York,9999999
+Paul,2020-06-15,-5,  Paris  ,50000
+Maria,,150,Berlin ,9999999
+Maria,15/07/2021,-5,New-York,30000
+Paul,2021-05-01,40,New-York,200000
+Maria,15/07/2021,,,9999999
+,2020-06-15,40,Berlin ,9999999
+Maria,2020-06-15,25,New-York,200000
+Jane,2020-06-15,35,New-York,30000
+,2022/07/20,,New York,70000
+Maria,06/18/2021,150,Los Angeles,9999999
+Jane,06/18/2021,40,  Paris  ,70000
+,2020-06-15,25,Los Angeles,50000
+Jane,06/18/2021,18,New-York,50000
+Maria,15/07/2021,150,,200000
+Maria,2021-05-01,-5,,30000
+Maria,06/18/2021,150,Los Angeles,30000
+John,2022/07/20,25,,
+Jane,2020-06-15,18,,70000
+John,,35,New York,9999999
+Paul,2021-05-01,35,Berlin ,70000
+Maria,,150,Berlin ,50000
+Paul,2020-06-15,40,Los Angeles,50000
+,15/07/2021,1000,New York,70000
+John,2020-06-15,18,,
+Jane,,18,,50000
+Luis,2020-06-15,150,Berlin ,50000
+Maria,2020-06-15,35,Los Angeles,9999999
+Paul,2020-06-15,150,Los Angeles,
+Paul,06/18/2021,150,  Paris  ,9999999
+Paul,15/07/2021,25,New York,9999999
+John,06/18/2021,25,  Paris  ,200000
+John,2022/07/20,40,Los Angeles,70000
+Luis,,35,  Paris  ,30000
+,2021-05-01,-5,,30000
+John,,1000,  Paris  ,30000
+Jane,,35,Los Angeles,30000
+Jane,2022/07/20,,Berlin ,30000
+Paul,15/07/2021,150,New-York,200000
+Maria,06/18/2021,1000,Berlin ,70000
+Paul,2021-05-01,40,,50000
+Jane,2021-05-01,35,New York,30000
+Jane,2022/07/20,,Berlin ,
+Jane,2020-06-15,18,,30000
+Paul,,1000,Los Angeles,200000
+Luis,,-5,  Paris  ,70000
+Maria,2021-05-01,150,New York,
+Luis,,,New York,30000
+Luis,2021-05-01,35,New York,200000
+Maria,06/18/2021,25,  Paris  ,30000
+Jane,06/18/2021,40,,30000
+Jane,2021-05-01,18,Berlin ,
+Paul,2022/07/20,-5,  Paris  ,200000
+Paul,,1000,,70000
+Luis,15/07/2021,150,New-York,200000
+Maria,15/07/2021,1000,New York,70000
+Maria,2021-05-01,25,Los Angeles,70000
+John,2022/07/20,40,  Paris  ,70000
+John,15/07/2021,18,New York,70000
+Luis,15/07/2021,18,  Paris  ,200000
+Paul,06/18/2021,150,,
+Jane,,150,  Paris  ,70000
+,,35,Berlin ,50000
+Jane,06/18/2021,,  Paris  ,70000
+Luis,2020-06-15,150,,50000
+Maria,2021-05-01,1000,Los Angeles,30000
+John,2022/07/20,25,New-York,70000
+Paul,2022/07/20,150,New-York,50000
+Maria,15/07/2021,1000,  Paris  ,70000
+Paul,15/07/2021,,  Paris  ,200000
+Paul,2020-06-15,1000,  Paris  ,
+Luis,2022/07/20,35,New-York,30000
+John,2022/07/20,35,,
+John,,25,,
+,2021-05-01,-5,  Paris  ,200000
+Jane,,18,,9999999
+Maria,06/18/2021,1000,Berlin ,50000
+,15/07/2021,40,  Paris  ,30000
+,,-5,Los Angeles,
+Maria,2020-06-15,18,Los Angeles,70000
+,2021-05-01,,New-York,9999999
+John,2020-06-15,-5,Los Angeles,50000
+Paul,2021-05-01,150,New-York,30000
+Jane,2021-05-01,25,,
+,2021-05-01,-5,Los Angeles,9999999
+Jane,2022/07/20,35,New-York,
+Paul,15/07/2021,150,New York,50000
+Jane,,18,Los Angeles,70000
+Paul,2022/07/20,25,,
+Jane,15/07/2021,40,  Paris  ,200000
+John,2022/07/20,150,New-York,200000
+,,1000,New-York,9999999
+Jane,2020-06-15,-5,Berlin ,50000
+Jane,15/07/2021,35,New York,30000
+Maria,2021-05-01,18,New York,50000
+Jane,2020-06-15,35,,9999999
+,2020-06-15,1000,,50000
+,15/07/2021,1000,  Paris  ,30000
+Paul,06/18/2021,,New-York,30000
+John,15/07/2021,40,New York,30000
+Jane,2022/07/20,1000,New York,70000
+John,2021-05-01,150,Berlin ,
+John,,40,,50000
+Jane,2020-06-15,40,  Paris  ,200000
+Maria,06/18/2021,-5,,30000
+Luis,06/18/2021,,  Paris  ,30000
+Jane,2020-06-15,18,New York,30000
+Luis,15/07/2021,1000,Los Angeles,
+Jane,15/07/2021,1000,Berlin ,200000
+John,15/07/2021,1000,Los Angeles,9999999
+Jane,2020-06-15,150,Berlin ,9999999
+Luis,15/07/2021,18,Los Angeles,50000
+John,06/18/2021,-5,  Paris  ,
+Jane,2022/07/20,18,,70000
+Maria,15/07/2021,18,,9999999
+Paul,06/18/2021,1000,,9999999
+Jane,06/18/2021,18,New-York,200000
+Maria,06/18/2021,25,  Paris  ,200000
+Luis,2022/07/20,-5,New York,70000
+,2022/07/20,,Los Angeles,50000
+Maria,15/07/2021,40,,200000
+Paul,2022/07/20,18,New York,30000
+Maria,,18,  Paris  ,50000
+,,40,,9999999
+Jane,,40,Los Angeles,9999999
+Maria,,25,Berlin ,
+Jane,2021-05-01,,New-York,70000
+Luis,2021-05-01,35,,30000
+Paul,15/07/2021,150,  Paris  ,30000
+,2021-05-01,25,  Paris  ,30000
+Maria,2020-06-15,35,New-York,
+Paul,2021-05-01,25,  Paris  ,30000
+Maria,15/07/2021,,Los Angeles,200000
+Paul,2020-06-15,,Los Angeles,30000
+Maria,06/18/2021,35,  Paris  ,50000
+Luis,2021-05-01,-5,Los Angeles,200000
+,2022/07/20,18,  Paris  ,30000
+,15/07/2021,150,,9999999
+Luis,,18,  Paris  ,
+Jane,2020-06-15,18,Berlin ,30000
+Maria,15/07/2021,-5,New-York,
+Luis,06/18/2021,35,Los Angeles,200000
+Luis,2021-05-01,18,New-York,200000
+Paul,,40,,200000
+Luis,2022/07/20,40,Berlin ,200000
+Luis,06/18/2021,,New York,
+Jane,15/07/2021,35,  Paris  ,50000
+John,2022/07/20,18,Los Angeles,
+,2021-05-01,40,New York,
+Paul,2020-06-15,18,New York,30000
+Luis,06/18/2021,150,Los Angeles,30000
+John,2021-05-01,25,,
+John,2021-05-01,18,New York,70000
+Luis,2020-06-15,,,50000
+Jane,2020-06-15,-5,,200000
+,2021-05-01,25,  Paris  ,200000
+,2020-06-15,1000,,200000
+,06/18/2021,35,,30000
+Maria,2020-06-15,18,  Paris  ,30000
+,06/18/2021,18,,50000
+Jane,2021-05-01,25,  Paris  ,9999999
+Luis,,,Berlin ,50000
+Paul,2021-05-01,1000,New York,
+Maria,15/07/2021,,  Paris  ,30000
+Maria,2021-05-01,,Berlin ,200000
+Luis,2021-05-01,150,  Paris  ,
+Luis,06/18/2021,35,  Paris  ,70000
+Paul,,-5,Los Angeles,70000
+,2020-06-15,1000,  Paris  ,9999999
+Jane,2022/07/20,25,  Paris  ,50000
+Paul,06/18/2021,1000,  Paris  ,30000
+,2021-05-01,-5,  Paris  ,30000
+Luis,15/07/2021,40,  Paris  ,70000
+Paul,2021-05-01,35,New-York,50000
+,2022/07/20,,New-York,50000
+Luis,2020-06-15,,Berlin ,30000
+Maria,,18,,9999999
+Paul,15/07/2021,150,Berlin ,30000
+John,2021-05-01,150,Berlin ,70000
+Maria,2022/07/20,35,New-York,9999999
+John,15/07/2021,25,,200000
+Luis,15/07/2021,-5,Berlin ,50000
+John,2021-05-01,-5,Los Angeles,30000
+Jane,2022/07/20,,New York,9999999
+,2020-06-15,40,Los Angeles,9999999
+Luis,2022/07/20,18,New York,50000
+John,2021-05-01,25,,9999999
+Luis,06/18/2021,25,New York,200000
+Jane,15/07/2021,150,  Paris  ,70000
+John,2020-06-15,25,Berlin ,200000
+John,2022/07/20,1000,New York,70000
+Maria,06/18/2021,150,  Paris  ,50000
+John,,150,Los Angeles,
+,,-5,  Paris  ,50000
+John,2022/07/20,150,New York,
+Luis,2020-06-15,1000,  Paris  ,9999999
+Jane,2021-05-01,18,  Paris  ,50000
+Paul,,40,Los Angeles,9999999
+,06/18/2021,,Los Angeles,200000
+Jane,06/18/2021,18,,70000
+Jane,06/18/2021,18,New York,50000
+John,,40,,9999999
+Paul,2022/07/20,-5,,30000
+Paul,15/07/2021,-5,  Paris  ,70000
+Jane,,25,New-York,200000
+Luis,2020-06-15,,  Paris  ,50000
+Paul,2020-06-15,35,New York,9999999
+Paul,2022/07/20,1000,New-York,70000
+,06/18/2021,25,,30000
+Jane,,150,  Paris  ,70000
+,2022/07/20,25,Los Angeles,50000
+,15/07/2021,40,New York,30000
+Maria,2021-05-01,35,  Paris  ,50000
+Paul,2020-06-15,,Los Angeles,
+,2021-05-01,,New York,70000
+,2021-05-01,1000,New-York,9999999
+Jane,15/07/2021,,New-York,30000
+Maria,,1000,New York,50000
+Jane,15/07/2021,40,,
+,2022/07/20,150,Los Angeles,50000
+Jane,2021-05-01,35,New-York,50000
+Luis,2021-05-01,35,,70000
+John,06/18/2021,25,New York,70000
+Maria,06/18/2021,150,  Paris  ,
+,2021-05-01,18,New York,9999999
+,,35,New York,70000
+,2021-05-01,,New York,30000
+John,2020-06-15,,Los Angeles,9999999
+Maria,2022/07/20,18,Berlin ,
+,,18,,70000
+Maria,15/07/2021,25,  Paris  ,9999999
+,06/18/2021,25,Los Angeles,200000
+Paul,15/07/2021,-5,New York,30000
+Luis,2022/07/20,40,  Paris  ,50000
+Luis,2020-06-15,150,Los Angeles,30000
+Jane,,-5,New-York,30000
+John,,,  Paris  ,9999999
+,,40,,30000
+,06/18/2021,,Berlin ,200000
+Jane,15/07/2021,40,Berlin ,30000
+Luis,2022/07/20,1000,  Paris  ,200000
+Jane,2020-06-15,25,  Paris  ,200000
+Luis,15/07/2021,35,,70000
+Luis,2021-05-01,150,New York,200000
+Maria,2021-05-01,-5,New York,200000
+Jane,2021-05-01,18,,9999999
+Maria,2022/07/20,,New York,9999999
+Jane,,150,  Paris  ,
+,2020-06-15,25,Berlin ,200000
+Luis,15/07/2021,-5,New-York,9999999
+,06/18/2021,25,Berlin ,30000
+Luis,15/07/2021,25,New York,50000
+Paul,,40,Los Angeles,200000
+Maria,06/18/2021,150,Berlin ,200000
+,,1000,New York,70000
+John,2021-05-01,1000,,9999999
+Jane,,18,  Paris  ,70000
+,2021-05-01,-5,,30000
+John,2021-05-01,25,New-York,
+Paul,2020-06-15,40,Los Angeles,9999999
+Luis,2020-06-15,-5,Berlin ,200000
+Maria,15/07/2021,25,New York,50000
+John,06/18/2021,1000,Berlin ,200000
+Maria,06/18/2021,40,New-York,9999999
+Luis,2022/07/20,1000,Los Angeles,
+Maria,2022/07/20,150,Berlin ,9999999
+Maria,06/18/2021,35,New-York,
+,2020-06-15,1000,Los Angeles,9999999
+Jane,2021-05-01,40,Berlin ,50000
+John,2022/07/20,,New York,30000
+Paul,2020-06-15,1000,New-York,200000
+Maria,2021-05-01,18,New York,200000
+Maria,15/07/2021,40,New-York,70000
+,2022/07/20,18,New York,30000
+Paul,2020-06-15,1000,,50000
+John,06/18/2021,40,New York,200000
+Luis,2020-06-15,18,,9999999
+Jane,15/07/2021,1000,Berlin ,9999999
+Paul,2022/07/20,1000,Berlin ,9999999
+Maria,2021-05-01,150,New York,
+Luis,2022/07/20,35,New-York,30000
+Jane,,,Berlin ,
+Paul,15/07/2021,,Berlin ,9999999
+Maria,06/18/2021,,New York,
+John,,-5,New-York,200000
+Paul,2022/07/20,-5,New York,50000
+Maria,2022/07/20,40,  Paris  ,50000
+Luis,2020-06-15,1000,New York,50000
+Paul,2020-06-15,-5,New-York,200000
+Jane,,,Berlin ,9999999
+John,15/07/2021,25,Berlin ,70000
+Paul,2020-06-15,25,Los Angeles,50000
+,2020-06-15,-5,New York,
+Paul,,-5,Berlin ,
+,2020-06-15,,  Paris  ,9999999
+John,,150,Berlin ,70000
+,2021-05-01,,,30000
+Luis,,40,,200000
+Jane,2020-06-15,-5,  Paris  ,200000
+Maria,15/07/2021,,Berlin ,
+Luis,06/18/2021,18,Berlin ,50000
+Maria,06/18/2021,150,New-York,50000
+,,35,Berlin ,70000
+Jane,15/07/2021,40,  Paris  ,30000
+Luis,06/18/2021,40,New-York,50000
+Paul,15/07/2021,-5,Berlin ,50000
+Luis,06/18/2021,25,New-York,
+Maria,2020-06-15,40,,9999999
+Paul,2021-05-01,40,,50000
+John,2021-05-01,-5,Berlin ,200000
+Luis,2020-06-15,35,Los Angeles,50000
+Luis,15/07/2021,150,,50000
+Paul,2021-05-01,1000,New-York,30000
+Luis,,18,  Paris  ,200000
+Paul,2021-05-01,-5,Los Angeles,70000
+John,06/18/2021,35,Berlin ,200000
+Luis,2020-06-15,150,Berlin ,70000
+Maria,2022/07/20,150,Los Angeles,30000
+Luis,06/18/2021,150,New York,30000
+Paul,06/18/2021,18,Los Angeles,9999999
+Paul,,25,  Paris  ,9999999
+Maria,2022/07/20,150,Berlin ,
+Maria,,35,New-York,30000
+Paul,2020-06-15,35,,50000
+,2022/07/20,35,New York,200000
+Paul,15/07/2021,,New-York,70000
+Luis,2020-06-15,,Los Angeles,200000
+Paul,2021-05-01,-5,Berlin ,200000
+Maria,06/18/2021,1000,  Paris  ,200000
+Luis,2021-05-01,150,Los Angeles,200000
+Paul,2020-06-15,35,Los Angeles,200000
+John,,40,New-York,9999999
+Maria,15/07/2021,25,New-York,30000
+,06/18/2021,40,Berlin ,9999999
+John,06/18/2021,25,New-York,200000
+Luis,2022/07/20,1000,New York,200000
+Maria,15/07/2021,-5,Berlin ,70000
+Luis,2021-05-01,-5,  Paris  ,200000
+Jane,15/07/2021,150,New York,200000
+Maria,2020-06-15,-5,Los Angeles,9999999
+Luis,2020-06-15,25,,200000
+John,2020-06-15,,New-York,50000
+Luis,2020-06-15,-5,  Paris  ,9999999
+Paul,,25,Berlin ,50000
+Paul,15/07/2021,-5,New-York,50000
+John,2020-06-15,1000,New York,200000
+Luis,,35,Los Angeles,30000
+Maria,15/07/2021,1000,Los Angeles,50000
+John,,1000,New-York,
+Luis,2022/07/20,35,Berlin ,50000
+Jane,2022/07/20,150,Berlin ,70000
+Paul,2021-05-01,150,New-York,30000
+John,2020-06-15,-5,,9999999
+Luis,,25,New-York,70000
+Jane,2022/07/20,-5,New-York,70000
+Paul,2020-06-15,,,50000
+Jane,2022/07/20,40,  Paris  ,70000
+,2022/07/20,,New-York,70000
+John,2021-05-01,,  Paris  ,30000
+Luis,,1000,New York,50000
+Jane,,40,New-York,30000
+Jane,15/07/2021,35,New-York,200000
+Jane,15/07/2021,-5,Berlin ,50000
+Maria,2022/07/20,150,New-York,70000
+Jane,2020-06-15,-5,,9999999
+Luis,15/07/2021,18,  Paris  ,50000
+Luis,,,,9999999
+Luis,15/07/2021,35,  Paris  ,50000
+Paul,2021-05-01,25,New-York,200000
+Jane,,,  Paris  ,30000
+John,2021-05-01,,New-York,50000
+Paul,2020-06-15,1000,,9999999
+,15/07/2021,-5,New York,50000
+Maria,2022/07/20,25,  Paris  ,9999999
+Luis,2020-06-15,1000,  Paris  ,
+Maria,15/07/2021,18,  Paris  ,50000
+Paul,15/07/2021,18,  Paris  ,30000
+Maria,2020-06-15,40,New-York,
+Paul,2021-05-01,150,New-York,9999999
+,2020-06-15,25,New York,70000
+Maria,2022/07/20,1000,New-York,70000
+Luis,,35,,50000
+,2021-05-01,35,  Paris  ,30000
+Jane,15/07/2021,18,New York,50000
+Luis,2021-05-01,40,Los Angeles,70000
+,2020-06-15,150,,50000
+Luis,2020-06-15,40,Berlin ,50000
+Luis,15/07/2021,-5,New York,70000
+Jane,2020-06-15,35,Berlin ,70000
+Luis,06/18/2021,150,  Paris  ,
+Paul,2022/07/20,150,Los Angeles,
+,2020-06-15,-5,Berlin ,30000
+Maria,06/18/2021,40,,9999999
+Jane,2021-05-01,150,New York,9999999
+John,2022/07/20,18,New-York,30000
+,06/18/2021,18,,70000
+Paul,2021-05-01,40,Berlin ,30000
+,,18,New-York,30000
+Jane,,150,Berlin ,
+Maria,2022/07/20,-5,  Paris  ,70000
+Jane,06/18/2021,18,New-York,
+Paul,06/18/2021,40,Los Angeles,50000
+Paul,2021-05-01,18,,70000
+,,1000,New York,200000
+John,,25,Los Angeles,30000
+Luis,2020-06-15,18,Berlin ,30000
+Maria,15/07/2021,,Berlin ,70000
+,15/07/2021,35,Los Angeles,200000
+Paul,15/07/2021,25,Berlin ,9999999
+Paul,06/18/2021,40,  Paris  ,70000
+Maria,15/07/2021,35,New York,30000
+,2022/07/20,,,9999999
+Paul,,35,  Paris  ,30000
+John,2022/07/20,18,New-York,70000
+John,15/07/2021,35,New York,9999999
+Luis,2022/07/20,1000,New York,50000
+,2020-06-15,40,Berlin ,
+,,18,,70000
+,2022/07/20,1000,New-York,50000
+Jane,,18,,200000
+Maria,2020-06-15,,Los Angeles,30000
+John,15/07/2021,-5,,30000
+John,2021-05-01,150,New-York,70000
+John,2021-05-01,1000,Los Angeles,200000
+John,2021-05-01,35,,70000
+Luis,2022/07/20,150,,
+Paul,2022/07/20,1000,New-York,70000
+,2022/07/20,,New-York,30000
+John,,-5,Los Angeles,30000
+,06/18/2021,18,  Paris  ,9999999
+Luis,,18,Berlin ,50000
+Jane,2021-05-01,-5,,
+,06/18/2021,,Berlin ,9999999
+Paul,2020-06-15,-5,Berlin ,9999999
+Jane,06/18/2021,18,Los Angeles,9999999
+Paul,2020-06-15,-5,,50000
+,2022/07/20,150,,
+Paul,2021-05-01,150,Berlin ,30000
+Paul,2022/07/20,35,,9999999
+Luis,,25,,9999999
+Maria,15/07/2021,150,New York,9999999
+Jane,2022/07/20,-5,New-York,70000
+Paul,2022/07/20,,Los Angeles,30000
+Paul,06/18/2021,40,Los Angeles,50000
+John,2020-06-15,25,New York,50000
+,2021-05-01,40,New-York,70000
+John,2022/07/20,18,Berlin ,9999999
+Luis,2022/07/20,25,Los Angeles,200000
+Paul,2020-06-15,18,Los Angeles,30000
+Jane,,1000,Los Angeles,50000
+,,18,Los Angeles,200000
+Jane,06/18/2021,1000,Los Angeles,200000
+John,2020-06-15,1000,Los Angeles,30000
+John,2022/07/20,1000,New York,50000
+Maria,,-5,Los Angeles,200000
+Paul,,150,  Paris  ,50000
+Paul,2021-05-01,,New-York,200000
+,2021-05-01,-5,New-York,30000
+John,15/07/2021,-5,,30000
+John,06/18/2021,40,Berlin ,50000
+John,,-5,,30000
+Maria,,150,Los Angeles,
+,2020-06-15,35,,30000
+Maria,2021-05-01,,Los Angeles,70000
+Maria,2021-05-01,,New York,30000
+Paul,,40,  Paris  ,50000
+Maria,06/18/2021,,New-York,9999999
+Paul,,1000,New-York,200000
+John,2022/07/20,40,Berlin ,
+Paul,2021-05-01,,Los Angeles,50000
+Jane,2021-05-01,25,New York,50000
+,2020-06-15,1000,Berlin ,200000
+Luis,06/18/2021,40,Berlin ,200000
+John,2020-06-15,35,Berlin ,70000
+Jane,2021-05-01,-5,New York,50000
+Luis,15/07/2021,150,New York,
+Jane,06/18/2021,,Los Angeles,70000
+Luis,,150,New York,70000
+Luis,,-5,Berlin ,
+Maria,15/07/2021,25,Los Angeles,200000
+Jane,06/18/2021,150,Berlin ,200000
+,2022/07/20,35,Berlin ,50000
+Jane,,-5,New-York,70000
+John,2020-06-15,,New York,
+,,,,
+Paul,,150,New-York,
+,2022/07/20,150,New-York,70000
+,,150,,30000
+,2020-06-15,18,Berlin ,30000
+Jane,2020-06-15,,,50000
+Jane,15/07/2021,35,New York,9999999
+John,2020-06-15,35,Berlin ,70000
+John,15/07/2021,25,  Paris  ,9999999
+Maria,2021-05-01,18,Berlin ,70000
+,,25,Berlin ,30000
+Paul,,1000,New York,200000
+Paul,06/18/2021,-5,Berlin ,30000
+Maria,2022/07/20,25,,9999999
+,2021-05-01,,Berlin ,70000
+,15/07/2021,-5,New-York,9999999
+,,25,,
+John,2020-06-15,40,,70000
+John,2021-05-01,18,Berlin ,50000
+John,2021-05-01,,New York,30000
+Jane,15/07/2021,40,New-York,50000
+Paul,2020-06-15,35,,30000
+Paul,06/18/2021,18,Los Angeles,30000
+Luis,15/07/2021,1000,,50000
+Luis,,35,Los Angeles,50000
+Jane,2022/07/20,150,Berlin ,
+Jane,06/18/2021,-5,New-York,9999999
+Paul,2022/07/20,35,  Paris  ,50000
+,15/07/2021,,,200000
+Luis,2022/07/20,40,Los Angeles,70000
+,,18,,9999999
+Maria,2021-05-01,,New-York,
+John,2020-06-15,25,,30000
+Paul,2022/07/20,18,Los Angeles,9999999
+Maria,06/18/2021,,,200000
+Jane,,1000,New-York,50000
+John,,18,Berlin ,50000
+Jane,15/07/2021,1000,New-York,200000
+Luis,06/18/2021,18,New-York,70000
+,2022/07/20,-5,New York,200000
+Maria,2022/07/20,,Berlin ,30000
+,2022/07/20,35,,9999999
+John,06/18/2021,-5,  Paris  ,200000
+John,2022/07/20,35,,9999999
+Jane,06/18/2021,-5,,
+,,,Los Angeles,200000
+Paul,06/18/2021,18,New-York,200000
+Maria,2020-06-15,35,New-York,30000
+John,2021-05-01,40,Berlin ,30000
+John,2021-05-01,25,New York,70000
+,2020-06-15,25,,30000
+Luis,06/18/2021,40,Los Angeles,30000
+Maria,15/07/2021,1000,  Paris  ,30000
+Maria,2021-05-01,-5,New-York,200000
+John,2020-06-15,40,New York,200000
+,15/07/2021,40,Los Angeles,30000
+Maria,2022/07/20,18,Los Angeles,50000
+Maria,2020-06-15,35,  Paris  ,30000
+John,2021-05-01,40,Berlin ,30000
+John,06/18/2021,,,9999999
+Jane,06/18/2021,150,Los Angeles,70000
+,06/18/2021,25,Los Angeles,30000
+Jane,2021-05-01,25,,30000
+,2022/07/20,40,  Paris  ,9999999
+Jane,06/18/2021,35,,70000
+Jane,15/07/2021,40,New-York,30000
+Maria,,,Berlin ,30000
+Luis,2022/07/20,40,  Paris  ,
+John,15/07/2021,18,New-York,9999999
+John,2020-06-15,1000,  Paris  ,70000
+Paul,,-5,,70000
+Luis,2022/07/20,-5,,
+,2021-05-01,-5,  Paris  ,70000
+Luis,,-5,,9999999
+John,2022/07/20,40,  Paris  ,50000
+Luis,2022/07/20,18,New York,200000
+,15/07/2021,35,,200000
+Paul,2022/07/20,-5,  Paris  ,9999999
+Maria,2022/07/20,150,,70000
+,06/18/2021,-5,New-York,200000
+Jane,,35,New-York,30000
+Paul,15/07/2021,1000,Los Angeles,30000
+,2022/07/20,,,50000
+,2020-06-15,35,New York,
+Jane,2022/07/20,18,New-York,9999999
+John,15/07/2021,35,New York,200000
